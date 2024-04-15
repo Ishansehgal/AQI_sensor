@@ -46,9 +46,6 @@ The code is designed to work with an Arduino board and the following sensors:
 
 Ishan Sehgal
 
-## License
-
-This project is licensed under the [License Name] - see the [LICENSE](LICENSE) file for details.
 
 ![Sensor Setup](images/1.png)
 ![Sensor Setup](images/2.png)
