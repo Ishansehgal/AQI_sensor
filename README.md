@@ -47,6 +47,6 @@ The code is designed to work with an Arduino board and the following sensors:
 Ishan Sehgal
 
 
-![Sensor Setup](images/1.png)
-![Sensor Setup](images/2.png)
+![Sensor Setup](images/1.jpeg)
+![Sensor Setup](images/2.jpeg)
 
